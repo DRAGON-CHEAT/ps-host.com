@@ -1,9 +1,8 @@
 CACHE MANIFEST 
 
 CACHE: 
-cache.html
-style.css
 index.html
+style.css
 int64.js
 kexploit.js
 rop.js

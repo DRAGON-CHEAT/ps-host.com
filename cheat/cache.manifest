@@ -1,7 +1,6 @@
 CACHE MANIFEST 
 
 CACHE: 
-index.html
 style.css
 int64.js
 kexploit.js
@@ -43,6 +42,7 @@ BeefQueefMod-134.bin
 BeefQueefMod-138d.bin
 BeefQueefMod-Unified-147e.bin
 OystersMenu-v1.00.bin
+index.html
 OystersMenu-v1.13.bin
 OystersMenu-v1.19.bin
 OystersMenu-v1.24.bin

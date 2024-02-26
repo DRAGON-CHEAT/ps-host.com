@@ -11,6 +11,7 @@ dumperG.bin
 dumperMGU.bin
 dumperSGU.bin
 dumperU.bin
+Copych.bin
 enable-updates.bin
 exit-idu.bin
 exploit.js
@@ -36,6 +37,7 @@ Linux-1gb.js
 Linux-2gb.js
 Linux-3gb.js
 Linux-4gb.js
+Linux-5gb.js
 LinuxPro-1gb.js
 LinuxPro-2gb.js
 LinuxPro-3gb.js

@@ -2,7 +2,6 @@ CACHE MANIFEST
 
 CACHE: 
 style.css
-index.html
 int64.js
 kexploit.js
 rop.js
@@ -50,6 +49,7 @@ OystersMenu-v1.29.bin
 WildeModz-1.32.bin
 WildeModz-1.33.bin
 WildeModz-1.38.bin
+index.html
 WildeModz-1.46.bin
 WildeModz-1.47.bin
 Expulsion-V4.0-1.38.bin
@@ -73,3 +73,4 @@ syscalls2.js
 
 NETWORK: 
 * 
+# Date: 2/26/2024  3:53:00.00

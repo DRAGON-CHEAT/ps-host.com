@@ -28,14 +28,7 @@ index.html
 int64.js
 jbc_loader.js
 kexploit.js
-Linux-1gb.js
-Linux-2gb.js
-Linux-3gb.js
-Linux-4gb.js
 Linux-5gb.js
-LinuxPro-1gb.js
-LinuxPro-2gb.js
-LinuxPro-3gb.js
 LinuxPro-4gb.js
 malloc.js
 netcat.js
@@ -47,6 +40,7 @@ arabic-guy127.bin
 WildeModz-1.33.bin
 arabic-guy133.bin
 WildeModz-1.46.bin
+BeefQueefMod-134.bin
 WildeModz-1.47.bin
 OystersMenu-v1.29.bin
 Orbis-Toolbox-900.bin

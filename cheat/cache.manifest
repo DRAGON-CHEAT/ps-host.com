@@ -40,20 +40,17 @@ LinuxPro-4gb.js
 malloc.js
 netcat.js
 arabic-guy100.bin
-OystersMenu-v1.13.bin
 Lamance-v0.9-1.38.bin
 arabic-guy132.bin
 WildeModz-1.32.bin
 arabic-guy127.bin
 WildeModz-1.33.bin
 arabic-guy133.bin
-OystersMenu-v1.24.bin
 WildeModz-1.46.bin
 WildeModz-1.47.bin
 OystersMenu-v1.29.bin
 Orbis-Toolbox-900.bin
 payload.js
-permanent-uart.bin
 relocator.js
 rif-renamer.bin
 rop.js
@@ -61,8 +58,6 @@ rop2.js
 southbridge.bin
 syscalls.js
 syscalls2.js
-todex.bin
-webactivator.html
 webkit.js
 webrte.bin
 

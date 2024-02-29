@@ -16,10 +16,12 @@ fan-threshold60.bin
 fan-threshold65.bin
 frontend.js
 ftp.bin
+goldhen_2.4b16.2.bin
 history-blocker.bin
 index.html
+int64.js
 jbc_loader.js
-inux-5gb.js
+Linux-5gb.js
 LinuxPro-4gb.js
 malloc.js
 netcat.js
@@ -38,10 +40,12 @@ Orbis-Toolbox-900.bin
 payload.js
 relocator.js
 rif-renamer.bin
+rop.js
 rop2.js
 southbridge.bin
 syscalls.js
 syscalls2.js
+webkit.js
 webrte.bin
 
 NETWORK: 
